@@ -1,4 +1,4 @@
-baseURL = "https://sayrain.github.io/"
+baseURL = "http://blog.sayrainsky.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "yinyang"
