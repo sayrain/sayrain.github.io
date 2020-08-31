@@ -6,37 +6,9 @@
     <description>Recent content on Sayrain&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.sayrainsky.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Redis技术设计--简介与安装</title>
-      <link>https://blog.sayrainsky.com/redis/redis%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1-%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%AE%89%E8%A3%85/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.sayrainsky.com/redis/redis%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1-%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%AE%89%E8%A3%85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RocketMQ技术设计--简介与安装</title>
-      <link>https://blog.sayrainsky.com/mq/rocketmq%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1-%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%AE%89%E8%A3%85/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.sayrainsky.com/mq/rocketmq%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1-%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%AE%89%E8%A3%85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>线程池配置与使用</title>
-      <link>https://blog.sayrainsky.com/java/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.sayrainsky.com/java/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
