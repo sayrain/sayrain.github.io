@@ -5,7 +5,7 @@ theme = "yinyang"
 DefaultContentLanguage = "cn"
 
 [author]
-  name = "sayrainsky"
+  name = "言清雨"
   homepage = "https://blog.sayrainsky.com/"
 
 [languages]
@@ -16,7 +16,7 @@ DefaultContentLanguage = "cn"
 
 [params]
 mainSections = ["docs"]
-headTitle = "sayrainsky"
+headTitle = "言清雨"
 [[params.socials]]
 name = "关于我"
 link = "https://blog.sayrainsky.com/"
